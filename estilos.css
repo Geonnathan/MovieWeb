@@ -96,10 +96,10 @@ main{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(255, 255, 255, 0.616);
+    background-color: #fff;
     padding: 1rem;
     max-height: 100%;
-    transform: translate(100%);
+    transform: translateY(100%);
     transition: transform 0.3s ease-in;
 }
 
